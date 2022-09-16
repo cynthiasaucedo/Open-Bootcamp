@@ -1,4 +1,4 @@
-package Ejercicios;
+package Excercises1_2_3;
 
 public class DataType {
 

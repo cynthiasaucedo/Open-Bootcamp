@@ -1,6 +1,6 @@
-package Ejercicios;
+package Excercises1_2_3;
 
-public class Functions {
+public class FunctionPrice {
 
     public static void main(String[] args) {
         finalPrice();
