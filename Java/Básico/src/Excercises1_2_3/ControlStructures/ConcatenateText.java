@@ -5,7 +5,7 @@
  * Los textos pueden venir de un array String
  * String[] nombres = {"", "", "", ""};
  */
-package Excercises1_2_3;
+package Excercises1_2_3.ControlStructures;
 
 public class ConcatenateText {
     public static void main(String[] args){

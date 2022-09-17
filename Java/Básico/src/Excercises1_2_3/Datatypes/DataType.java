@@ -1,4 +1,4 @@
-package Excercises1_2_3;
+package Excercises1_2_3.Datatypes;
 
 public class DataType {
 
