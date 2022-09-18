@@ -1,4 +1,4 @@
-package Excercises4_5_6.ex4;
+package Excercises4_5.ex4;
 
 public class SmartPhone extends SmartDevice{
     int cameraPx;

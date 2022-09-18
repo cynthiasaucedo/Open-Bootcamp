@@ -9,7 +9,7 @@
  */
 
 
-package Excercises4_5_6.ex4;
+package Excercises4_5.ex4;
 
 public class Main {
     public static void main(String[] args) {

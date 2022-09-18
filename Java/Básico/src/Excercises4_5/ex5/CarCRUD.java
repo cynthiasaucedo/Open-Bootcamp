@@ -1,4 +1,4 @@
-package Excercises4_5_6.ex5;
+package Excercises4_5.ex5;
 
 public interface CarCRUD {
 
