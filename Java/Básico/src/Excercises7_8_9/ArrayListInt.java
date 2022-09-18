@@ -13,8 +13,8 @@ public class ArrayListInt {
             //entonces no imprimo y continuo iterando
             if (i % 2 == 0) {
                 continue;
-            } else arrayListInt.add(i);
-            System.out.println(i);
+            } else {arrayListInt.add(i);
+            System.out.println(i);}
         }
     }
 }
